@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 252"
+  short_description: "治愈贴纸：上半保留原照，下半收成圆润的手帐贴纸角色和低刺激留白"
+  default_prompt: "Use $xxd-panel-252 to transform my photograph following the complete canonical source brief."
