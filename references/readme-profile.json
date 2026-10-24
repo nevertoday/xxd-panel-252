@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 252｜Healing Sticker: strips a photo down to one memorable subject and redraws it as a small, rounded, soft kawaii journal sticker — a simplified, gently childlike or personified character with a soft expression that is still recognisably the original, hand-drawn lines with pauses and slight wobble, a few tiny stars, flowers or doodle marks, a light pastel palette of cream, cherry-blossom pink, misty blue, mint, butter yellow and soft coral taken from the photo, lots of calm white space and a few small handwritten journal-style words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-252 or asks for cute kawaii sticker, Japanese stationery or cozy journal doodle illustration from a photo.",
+  "short_description": "治愈贴纸：把照片主体收成圆润柔软的手帐贴纸，四周是低刺激的留白",
+  "zh-CN": {
+    "name": "治愈贴纸",
+    "tagline": "把照片里的主体收成一枚圆润柔软的手帐小贴纸，四周是安静的留白。",
+    "look": "照片被删到只剩一个最值得记住的主体，概括成圆润、柔软、亲切的小角色或小符号：可以稍微幼态、拟人一点，带一个柔和的表情，但还认得出原来是什么。线条是手绘的，留着停顿和小偏差；周围可以点几颗小星星、小花或简单涂鸦，但不堆。颜色从照片里取最暖、最亲切的几种，改成奶油白、樱花粉、雾蓝、薄荷绿、奶油黄、柔珊瑚这样明亮柔软的粉彩。主体不占满，像手帐里贴着的一个小片刻，旁边有一两句手写感的小字。",
+    "traits": ["治愈贴纸", "圆润角色", "手帐", "低刺激", "极端留白", "日系文具"],
+    "good": [
+      "身份好认的小动物或宠物：一只猫、一只柯基、一只鸭子、一只兔子",
+      "让人有陪伴感的日常物件：一杯热可可、一盆多肉、一个面包、一把雨伞",
+      "想做成手帐贴纸、头像或聊天表情感小图的照片"
+    ],
+    "poor": [
+      "想保留真实场景或很多对象的照片，只会留下一个小角色",
+      "需要写实、严肃或准确还原人物长相的用途",
+      "想要商业吉祥物、过度卖萌、塑料感矢量或满版背景的效果"
+    ]
+  },
+  "en": {
+    "name": "Healing Sticker",
+    "tagline": "Turns the subject of your photo into one small, rounded, soft journal sticker inside quiet white space.",
+    "look": "The photo is pared down to its single most memorable subject, simplified into a rounded, soft, friendly little character or symbol: it may be a little childlike or personified, with a gentle expression, yet still recognisable as what it was. The lines are hand-drawn, keeping their pauses and small wobbles; a few tiny stars, flowers or simple doodles can sit nearby, never piled up. The warmest, friendliest colours in the photo become bright, soft pastels such as cream, cherry-blossom pink, misty blue, mint, butter yellow and soft coral. The subject does not fill the frame; it is like one small moment stuck into a journal, with a line or two of small handwritten-style words.",
+    "traits": ["Healing sticker", "Rounded character", "Journal", "Low stimulation", "Extreme white space", "Japanese stationery"],
+    "good": [
+      "Small animals or pets with a clear identity: a cat, a corgi, a duck, a rabbit",
+      "Comforting everyday objects: a cup of hot cocoa, a potted succulent, a bun, an umbrella",
+      "Photos you want as a journal sticker, avatar or chat-sticker-like image"
+    ],
+    "poor": [
+      "Photos where you want the real scene or many objects kept; only one small character remains",
+      "Uses that need something realistic, serious or a faithful likeness of a person",
+      "Requests for a commercial mascot, over-the-top cuteness, plastic vector or a full background"
+    ]
+  },
+  "ja": {
+    "name": "癒やしステッカー",
+    "tagline": "写真の主役を、丸くてやわらかな手帳用の小さなステッカーにします。まわりは静かな余白です。",
+    "look": "写真をいちばん記憶に残る主役一つだけに絞り、丸くやわらかで親しみやすい小さなキャラクターや記号にまとめます。少し幼くしたり擬人化したりして、やさしい表情をつけてもかまいませんが、もとが何かはちゃんとわかります。線は手描きで、ためらいや小さなずれが残ります。まわりに小さな星や花、簡単な落書きを少し添えても、積み重ねはしません。写真のいちばん温かく親しみのある色を、生成り、桜色、霧のような青、ミントグリーン、クリームイエロー、やわらかなコーラルといった明るくやさしいパステルに変えます。主役は画面いっぱいにはせず、手帳に貼った小さなひとときのように置き、手書き風の小さな言葉を一、二行添えます。",
+    "traits": ["癒やしステッカー", "丸いキャラクター", "手帳", "刺激の少なさ", "極端な余白", "日本の文具"],
+    "good": [
+      "何の動物かすぐわかる小さな動物やペット：猫、コーギー、アヒル、うさぎ",
+      "そばにいてほっとする日用品：ホットココア、多肉植物の鉢、パン、傘",
+      "手帳のステッカー、アイコン、チャットスタンプのような小さな絵にしたい写真"
+    ],
+    "poor": [
+      "実際の場面や多くのものを残したい写真（残るのは小さなキャラクター一つです）",
+      "写実的で真面目な用途や、人物の顔を正確に再現したい場合",
+      "商業マスコット、過剰なかわいさ、プラスチックのようなベクター、全面の背景を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "힐링 스티커",
+    "tagline": "사진 속 주인공을 둥글고 말랑한 다이어리용 작은 스티커로 바꿉니다. 둘레는 조용한 여백입니다.",
+    "look": "사진을 가장 기억에 남는 주인공 하나로 줄여, 둥글고 말랑하고 친근한 작은 캐릭터나 기호로 정리합니다. 조금 어려 보이게 하거나 의인화해 부드러운 표정을 넣어도 되지만, 원래 무엇이었는지는 알아볼 수 있습니다. 선은 손그림으로, 머뭇거림과 작은 어긋남이 남습니다. 주변에 작은 별이나 꽃, 간단한 낙서를 몇 개 둘 수 있지만 쌓아 올리지는 않습니다. 사진에서 가장 따뜻하고 다정한 색을 크림색, 벚꽃 분홍, 안개 낀 파랑, 민트, 크림 노랑, 부드러운 코랄 같은 밝고 순한 파스텔로 바꿉니다. 주인공은 화면을 채우지 않고 다이어리에 붙인 작은 한순간처럼 놓이며, 손글씨 느낌의 짧은 글을 한두 줄 곁들입니다.",
+    "traits": ["힐링 스티커", "둥근 캐릭터", "다이어리", "낮은 자극", "극단적 여백", "일본 문구"],
+    "good": [
+      "무엇인지 바로 알아보는 작은 동물이나 반려동물: 고양이, 코기, 오리, 토끼",
+      "곁에 있으면 위로가 되는 일상 물건: 핫초코 한 잔, 다육이 화분, 빵, 우산",
+      "다이어리 스티커, 프로필 사진, 이모티콘 같은 작은 그림으로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "실제 장면이나 여러 대상을 살리고 싶은 사진(작은 캐릭터 하나만 남습니다)",
+      "사실적이거나 진지한 용도, 인물의 얼굴을 정확히 살려야 하는 경우",
+      "상업 마스코트, 과한 귀여움, 플라스틱 같은 벡터, 꽉 찬 배경을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "ملصق السكينة",
+    "tagline": "يحوّل عنصر صورتك إلى ملصق صغير مستدير ناعم لدفتر اليوميات، وسط فراغ أبيض هادئ.",
+    "look": "تُختزل الصورة إلى أكثر عنصر فيها يستحق التذكّر، ويُبسَّط إلى شخصية صغيرة أو رمز مستدير ناعم وودود: قد يبدو طفولياً قليلاً أو مُؤنسَناً بتعبير لطيف، لكنه يبقى معروفاً لما كان عليه. الخطوط مرسومة باليد تحتفظ بتوقفاتها وارتعاشاتها الصغيرة، ويمكن أن تجاورها نجمات أو زهور صغيرة أو خربشات بسيطة دون تكديس. تتحول أدفأ ألوان الصورة وألطفها إلى باستيل مشرق ناعم مثل الكريمي ووردي زهر الكرز والأزرق الضبابي والنعناعي وأصفر الزبدة والمرجاني الناعم. لا يملأ العنصر الإطار، بل يبدو كلحظة صغيرة ملصقة في دفتر يوميات، ومعه سطر أو سطران بكلمات صغيرة تشبه خط اليد.",
+    "traits": ["ملصق السكينة", "شخصية مستديرة", "دفتر يوميات", "إثارة منخفضة", "فراغ أبيض شديد", "قرطاسية يابانية"],
+    "good": [
+      "حيوانات صغيرة أو أليفة واضحة الهوية: قطة، كلب كورجي، بطة، أرنب",
+      "أغراض يومية تبعث على الطمأنينة: كوب كاكاو ساخن، أصيص نبات عصاري، كعكة خبز، مظلة",
+      "صور تريدها ملصقاً لدفتر يومياتك أو صورة شخصية أو صورة تشبه ملصقات المحادثة"
+    ],
+    "poor": [
+      "صور تريد أن يبقى فيها المشهد الحقيقي أو أشياء كثيرة؛ لا تبقى إلا شخصية صغيرة واحدة",
+      "استخدامات تحتاج إلى الواقعية أو الجدية أو شبه دقيق بملامح شخص",
+      "طلب تميمة تجارية أو لطافة مفرطة أو رسم متجهي بلاستيكي أو خلفية ممتلئة"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-252
-description: "Create XXD Panel 252 raster artwork: a faithful photograph paired with a kawaii healing sticker of one small rounded character in a quiet stationery-journal page. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-252 or asks for this 治愈贴纸 style."
+description: "XXD Panel 252｜Healing Sticker: strips a photo down to one memorable subject and redraws it as a small, rounded, soft kawaii journal sticker — a simplified, gently childlike or personified character with a soft expression that is still recognisably the original, hand-drawn lines with pauses and slight wobble, a few tiny stars, flowers or doodle marks, a light pastel palette of cream, cherry-blossom pink, misty blue, mint, butter yellow and soft coral taken from the photo, lots of calm white space and a few small handwritten journal-style words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-252 or asks for cute kawaii sticker, Japanese stationery or cozy journal doodle illustration from a photo."
 ---
 
 # XXD Panel 252
